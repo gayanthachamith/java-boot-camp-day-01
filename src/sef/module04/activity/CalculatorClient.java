@@ -1,6 +1,6 @@
 package sef.module04.activity;
 
-public class Main {
+public class CalculatorClient {
 
     public static void main(String[] args) {
 
